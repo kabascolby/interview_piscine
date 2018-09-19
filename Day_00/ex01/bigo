@@ -1,0 +1,2 @@
+O(n log n) time, in worst case.
+O(n) space, with n space allocation for each elements in the array.
