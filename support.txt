@@ -1,0 +1,10 @@
+Abstract Data Types:
+Taking things by puting a semantic boundry beetween them. In prpose we can focus one side of
+that semantic boundry to understand fully an completeness witout worring on the other side of the boundry.
+So it's basically creating a semantic boundry beetween things.
+exemple: if we want to use a stack data structure : 
+the abstraction is in this ca is to focus on how to implement they operations on the stack to make it work.
+instead of focusing wich can of data structure to use array or linked list... tohose part become the abstract
+part. Because in either case both can be use to impleament Stack so we dont have to worry about it.
+https://www.geeksforgeeks.org/abstract-data-types/
+https://en.wikipedia.org/wiki/Abstraction_(computer_science)

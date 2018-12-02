@@ -1,0 +1,2 @@
+time O(nlogn) average case but in worst case 0(n^2);
+space = O(log(n));
